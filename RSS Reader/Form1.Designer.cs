@@ -50,6 +50,7 @@
             this.txtURL.Name = "txtURL";
             this.txtURL.Size = new System.Drawing.Size(482, 20);
             this.txtURL.TabIndex = 1;
+            this.txtURL.Text = "http://www.hej.mielec.pl/rssAll/pl/78.xml";
             // 
             // label1
             // 
